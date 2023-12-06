@@ -1,0 +1,158 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 9
+    },
+    {
+      "name": "shirish",
+      "email": "Shirish@seller.com",
+      "password": "abc@123",
+      "id": 10
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 11
+    }
+  ],
+  "products": [
+    {
+      "name": "Air filter",
+      "price": "550",
+      "category": "Car ",
+      "color": "white",
+      "description": "this a car product",
+      "image": "https://imgs.search.brave.com/2u1y1RXbdZLr-UDTGHXb5Sd1JfW7ZCvbRQaap31GYOw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjQ1/OTE3OTAwL3Bob3Rv/L2Nhci1haXItZmls/dGVyLmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1COF83TkpO/SlR4WDVaNUp0dHlh/NHk1QnVDaVVIUkxR/dC1hS1U5SFdwZnJr/PQ",
+      "id": 1
+    },
+    {
+      "name": "Volvoline Oil",
+      "price": "500",
+      "category": "Vehicle Oil",
+      "color": "White",
+      "description": "This is a car accesories",
+      "image": "https://imgs.search.brave.com/oeUHqAu6YIq3Hfd2h9qRMwDXTz1-t9ZcI7DZUdv2NQo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL0kv/NDFSVFNPRjFjNEwu/anBn",
+      "id": 2
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 5
+    },
+    {
+      "name": "Truck",
+      "price": "Toy",
+      "category": "Toys",
+      "color": "Red",
+      "description": "A toy for 5 year old child",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/products/Truck2_1400x.png?v=1662789388",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    }
+  ],
+  "cart": [
+    {
+      "name": "Samsung m 40 a ",
+      "price": "550",
+      "category": "mobile",
+      "color": "white",
+      "description": "this is a Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 3,
+      "id": 7
+    },
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    }
+  ],
+  "orders": []
+}
